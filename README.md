@@ -14,6 +14,8 @@ Mi objetivo laboral actual es trabajar en una empresa donde pueda seguir crecien
 
 ## 🛠 ¿Qué tecnologías uso?
 
+Estas son algunas de las tecnologías que utilizo en mi trabajo como desarrollador web:
+
 - JavaScript
 - Node.js
 - Express
@@ -22,8 +24,10 @@ Mi objetivo laboral actual es trabajar en una empresa donde pueda seguir crecien
 - SQL 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  
-Estas son algunas de las tecnologías que utilizo en mi trabajo como desarrollador web.
+
+## 🌐 ¿Dónde puedes ver mi trabajo?
+
+He creado un portafolio que incluye algunos de los proyectos en los que he trabajado. Te invito a visitarlo aquí: [https://portfolio-fabianmelgarejo.vercel.app/](https://portfolio-fabianmelgarejo.vercel.app/).
 
 ## 📧 No dudes en contactarme
 
