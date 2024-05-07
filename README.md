@@ -19,6 +19,7 @@ He creado un portafolio que incluye algunos de los proyectos en los que he traba
 Si deseas contactarme para hablar sobre un proyecto, colaboración o cualquier otra oportunidad, no dudes en escribirme a mi correo electrónico: cmelgarejobm@gmail.com. También puedes seguirme en mis redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cmelgarejobm/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?&logo=todoist&logoColor=white)](https://portfolio-fabianmelgarejo.vercel.app/) 
 
 ## 📊 Estadísticas de GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fabianbm15&theme=dark&hide_border=false)
